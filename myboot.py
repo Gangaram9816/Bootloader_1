@@ -1,5 +1,4 @@
-import flet
-from flet import *
+
 import time
 import serial
 import os
